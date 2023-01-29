@@ -20,11 +20,11 @@ logo.src = "https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg"
 @end
 -->
 
-# Fullscreen - Template
+# VIB - Template
 
 By importing this README via:
 
-`import: https://raw.githubusercontent.com/vibbits/VIBLayyout/0.0.1/README.md`
+`import: https://raw.githubusercontent.com/abotzki/VIB-template/main/README.md`
 
 into your document header, as it is shown below, an event listener will be added automatically to your course, which will apply the VIB logo and colors.
 
@@ -32,7 +32,7 @@ into your document header, as it is shown below, an event listener will be added
 <!--
 author:   ...
 
-import: https://raw.githubusercontent.com/vibbits/VIBLayout/0.0.1/README.md
+import: https://raw.githubusercontent.com/abotzki/VIB-template/main/README.md
 -->
 
 # Main Title
