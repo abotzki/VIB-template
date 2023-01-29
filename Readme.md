@@ -13,7 +13,7 @@ comment:  This plugin applies minor changes to for VIB layout.
 
 @onload
 
-const logo = document.querySelector(.lia_header__logo);
+const logo = document.querySelector(".lia_header__logo");
 
 logo.src = "https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg"
 
@@ -43,7 +43,7 @@ import: https://raw.githubusercontent.com/abotzki/VIB-template/main/README.md
 ``` javascript
 @onload
 
-const logo = document.querySelector(.lia_header__logo);
+const logo = document.querySelector(".lia_header__logo");
 
 logo.src = "https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg"
 
